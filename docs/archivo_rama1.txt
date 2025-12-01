@@ -1,1 +1,2 @@
 Contenido del archivo en rama1
+Cambio conflictivo en archivo_rama1 desde main
