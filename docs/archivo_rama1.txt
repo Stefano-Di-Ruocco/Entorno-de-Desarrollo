@@ -1,2 +1,6 @@
 Contenido del archivo en rama1
+<<<<<<< HEAD
 Cambio conflictivo en archivo_rama1 desde main
+=======
+Cambio 1 en archivo_rama1.txt - línea extra
+>>>>>>> rama1
